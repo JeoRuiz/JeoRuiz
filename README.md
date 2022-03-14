@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @JeoRuiz
+- 👀 I’m interested in JavaScript, AndroidStudio, Python, C++ , Web Developing ...
+- 🌱 I’m currently learning Python  ...
+- 💞️ I’m looking to collaborate on  Open-source Projects  ...
+- 📫 How to reach me 
+- Instagram: https://www.instagram.com/jeoruiz209/
+- Twitter: https://twitter.com/ruiz_jeo
+- ...
+
+<!---
+JeoRuiz/JeoRuiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
